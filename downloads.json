@@ -1,0 +1,8 @@
+[
+  {
+    "displayName": "Example Text File",
+    "description": "Sample downloadable text file showing how entries are rendered.",
+    "fileName": "example.txt",
+    "downloadPath": "files/example.txt"
+  }
+]
