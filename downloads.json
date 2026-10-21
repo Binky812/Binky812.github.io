@@ -5,4 +5,10 @@
     "fileName": "example.txt",
     "downloadPath": "files/example.txt"
   }
+  {
+    "displayName": "Window Hider",
+    "description": "DLL That Hides A Window Of A Process Its Injected Into, For Testing With PC Monitoring Programs(can rename to something else, this name is just for personal usage testing)",
+    "fileName": "discord_game_sdk.dll",r
+    "downloadPath": "files/discord_game_sdk.dll"
+  }
 ]
